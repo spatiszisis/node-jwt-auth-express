@@ -8,10 +8,3 @@ Clone the Repository and run
 npm install
 nodemon start
 ```
-
-## Built With
-
-- Item 1
-- Item 2
-  - Sub Item 1
-  - Sub Item 2
